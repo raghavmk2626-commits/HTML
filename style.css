@@ -53,7 +53,7 @@ body{
 .header-content{
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 15px;
 }
 .info p{
     margin: 5px 0;
